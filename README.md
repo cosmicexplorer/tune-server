@@ -21,7 +21,11 @@ node app to index songs and play them
         - wma
         - wmv
 
-2. must be able to read playlists:
+2. must be able to put all of these into a persistent database
+    - sqlite sounds cool
+    - find a non-tmp directory in some platform-independent way
+
+3. must be able to read playlists:
     - important:
         - cue
         - m3u
@@ -31,7 +35,7 @@ node app to index songs and play them
         - wpl
         - pls
 
-3. must be able to produce path to corresponding album art for a given song
+4. must be able to produce path to corresponding album art for a given song
     - basically find some image in the folder, and if there are multiple, then prefer one which is named `cover.jpg`, if available
     - images are of type:
         - jpg
