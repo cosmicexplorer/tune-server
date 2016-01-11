@@ -11,7 +11,7 @@ node app to index songs and play them
         - m4a
         - m4v (maybe)
         - mp3
-        - mp4
+        - mp4 (https://www.npmjs.com/package/mp4js)
         - ogg
     - less important:
         - aiff

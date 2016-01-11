@@ -1,0 +1,14 @@
+{
+  "name": "tune-server",
+  "version": "0.0.0",
+  "license": "GPL-3.0",
+  "repository": "git@github.com:cosmicexplorer/tune-server.git",
+  "main": "main.js",
+  "dependencies": {
+    "lame": "^1.2.3",
+    "speaker": "^0.2.6"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
