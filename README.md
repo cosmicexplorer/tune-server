@@ -1,6 +1,8 @@
 tune-server
 ===========
 
+**NOT BEING WORKED ON ANYMORE SINCE AMAROK WORKS**
+
 node app to index songs and play them
 
 # TODO
